@@ -1,7 +1,7 @@
 {
   "name": "todo-app.mobx",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --history-api-fallback --inline --port 8080 --mode development"
